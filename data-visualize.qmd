@@ -46,7 +46,7 @@ You only need to install a package once, but you need to load it every time you 
 
 In addition to tidyverse, we will also use the **palmerpenguins** package, which includes the `penguins` dataset containing body measurements for penguins on three islands in the Palmer Archipelago, and the ggthemes package, which offers a colorblind safe color palette.
 
-```{r}
+```{py}
 library(palmerpenguins)
 library(ggthemes)
 ```
